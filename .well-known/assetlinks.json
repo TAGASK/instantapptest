@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.fetchr.customerapp.alpha",
+    "sha256_cert_fingerprints":
+    ["CD:7C:AF:1C:95:99:F6:39:09:B0:08:03:DF:E4:9A:87:4F:7A:6A:B2:77:90:D3:CD:D5:1F:8D:E8:83:ED:85:06"]
+  }
+}]
